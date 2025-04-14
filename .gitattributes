@@ -1,0 +1,3 @@
+cmake-build-debug/* linguist-vendored
+MonkeyTyper/_deps/* linguist-vendored
+Makefile linguist-generated
