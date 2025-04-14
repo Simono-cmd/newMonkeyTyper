@@ -1,0 +1,7 @@
+CorrectWords:2
+Lives:5
+Timer:15
+Font:../Fonts/second.ttf
+Size:60
+Generate:3
+Speed:30
