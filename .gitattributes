@@ -1,2 +1,3 @@
 Makefile linguist-detectable=false
 CMake linguist-detectable=false
+*.sh linguist-detectable=false
