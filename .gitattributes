@@ -1,4 +1,2 @@
-cmake-build-debug/** linguist-vendored
-MonkeyTyper/_deps/** linguist-vendored
-MonkeyTyper/Makefile linguist-generated
 Makefile linguist-detectable=false
+CMake linguist-detectable=false
